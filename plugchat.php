@@ -59,9 +59,7 @@ function plugchat_reply(){
  *  enqueue scripts and styles
  */
 function plugchat_assets() {
-
     wp_enqueue_style( 'plugchat', plugins_url("/assets/css/main-style.css",__FILE__),false,"1.0.0" );
-    wp_enqueue_style( 'wp-color-picker' );
     wp_enqueue_script("plugchat-js", plugins_url("/assets/js/script.js",__FILE__),array("jquery"),"1.0.0",true);
 }
 add_action( 'wp_enqueue_scripts', 'plugchat_assets' );
