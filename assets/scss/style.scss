@@ -1,0 +1,40 @@
+/*
+Plugin Name:  Plug Chat
+Plugin URI: http://themeplugs.com/plugin/plugchat/
+Author: Themeplugs
+Author URI: http://themeplugs.com/
+Version: 1.0.0
+Text Domain: plugchat
+Description: Plugchat is facebook chat for WordPress website. A feasible way to engage with the customer interactive sales experience for customers.
+*/
+
+.chat-btn{
+   &.left{
+        .fb_dialog{
+            &.fb_dialog_advanced{
+                left: 25px;
+                right: auto !important;
+            }
+        }
+        .fb_iframe_widget{ 
+            iframe{
+                right: auto !important;
+                left: 25px;
+            }
+        }
+   }
+   &.right{
+        .fb_dialog{
+            &.fb_dialog_advanced{
+                right: 25px;
+                left: auto !important;
+            }
+        }
+        .fb_iframe_widget{ 
+            iframe{
+                left: auto !important;
+                right: 25px;
+            }
+        }
+   }
+}

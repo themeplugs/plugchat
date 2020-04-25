@@ -5,7 +5,7 @@
         <form method="post" action="options.php">
             <?php 
                 settings_fields('plugchat-settings-group');
-                do_settings_sections('alecadd_plugchat');
+                do_settings_sections('themeplugs_plugchat');
                 submit_button()
             ?>
             

@@ -1,3 +1,12 @@
+/*
+Plugin Name:  Plug Chat
+Plugin URI: http://themeplugs.com/plugin/plugchat/
+Author: Themeplugs
+Author URI: http://themeplugs.com/
+Version: 1.0.0
+Text Domain: plugchat
+Description: Plugchat is facebook chat for WordPress website. A feasible way to engage with the customer interactive sales experience for customers.
+*/
 .wp-menu-image {
     &.dashicons-before{
         img{
@@ -20,6 +29,5 @@
     }
     .plugs-reply{
         width: 400px;
-        min-height: 150px;
     }
 }
