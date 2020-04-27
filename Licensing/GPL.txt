@@ -1,4 +1,4 @@
-# Plugchat Facebook Chatbot for WordPress website 
+# Plugchat Facebook Live Chatfor for WordPress Website 
 ## Author : Themeplugs
 
 GNU GENERAL PUBLIC LICENSE
