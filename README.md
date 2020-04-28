@@ -7,7 +7,7 @@
 * Requires PHP: 7.0
 *  License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
-### Live Demo : http://themeplugs.com/plugin/plugchat/
+### Live Demo : <a href="http://themeplugs.com/plugin/plugchat/">plugchat</a>
 Added your your domain in your facebook page 
 Paste the page id in plugchat admin option 
 
