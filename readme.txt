@@ -8,7 +8,7 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Plugchat is comes with facebook messenger chating option in your WordPress website
+Plugchat comes with facebook messenger chatting option in your WordPress website.
 
 == Description ==
 
