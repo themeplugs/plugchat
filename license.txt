@@ -1,11 +1,7 @@
-=== Plugchat ===
-Tags: facebook chatbot, messenger, chatbot  plugin, wordpress chatbot plugin, plugchat, themeplugs,chatting app
-Requires at least: 5.0
-Tested up to: 5.4
-Requires PHP: 7.0
-
+# Plug Chat
+## Author : Themeplugs
 GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
+Version 1.0.0, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
